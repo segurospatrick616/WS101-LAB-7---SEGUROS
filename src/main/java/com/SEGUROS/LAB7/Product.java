@@ -9,7 +9,7 @@ public class Product {
     public Product() {
     }
 
-    // 2. Constructor with Arguments (Para sa Service mo)
+
     public Product(Long id, String name, Double price) {
         this.id = id;
         this.name = name;
